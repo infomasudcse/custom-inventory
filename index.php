@@ -1,5 +1,5 @@
 <?php
-
+/* start working with git */ 
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
